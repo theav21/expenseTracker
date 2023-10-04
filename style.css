@@ -1,6 +1,6 @@
 .flex{
     margin: auto;
-    position:relative;
+    
     top: 10px;
     text-align: center;
     border: solid 5px rgb(10, 6, 6);
@@ -25,6 +25,8 @@ table, th, td {
 .work{
     width: 1000px;
     margin: auto;
-    position: relative;
-    top: 40px;
+
+}
+#submit{
+    margin-bottom: 50px;
 }
