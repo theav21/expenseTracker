@@ -1,0 +1,30 @@
+.flex{
+    margin: auto;
+    position:relative;
+    top: 10px;
+    text-align: center;
+    border: solid 5px rgb(10, 6, 6);
+    width: 400px;
+    
+}
+li{
+    padding-left: 10px;
+}
+
+#abc{
+    position: absolute;
+    right: 10px;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
+.work{
+    width: 1000px;
+    margin: auto;
+    position: relative;
+    top: 40px;
+}
